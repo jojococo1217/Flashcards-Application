@@ -5,6 +5,109 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>2CF1B2E4-C203-4B71-A39C-C3DD92629B66</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2CF1B2E4-C203-4B71-A39C-C3DD92629B66.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Flashcards App project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Flashcards App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Flashcards App</string>
+			<key>timeStartedRecording</key>
+			<real>636074183.63176405</real>
+			<key>timeStoppedRecording</key>
+			<real>636074256.93829298</real>
+			<key>title</key>
+			<string>Run Flashcards App</string>
+			<key>uniqueIdentifier</key>
+			<string>2CF1B2E4-C203-4B71-A39C-C3DD92629B66</string>
+		</dict>
+		<key>E6C02DA0-6F9D-4207-A4AD-7B07FCAD446B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E6C02DA0-6F9D-4207-A4AD-7B07FCAD446B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Flashcards App project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Flashcards App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Flashcards App</string>
+			<key>timeStartedRecording</key>
+			<real>636074739.10372901</real>
+			<key>timeStoppedRecording</key>
+			<real>636074827.099998</real>
+			<key>title</key>
+			<string>Run Flashcards App</string>
+			<key>uniqueIdentifier</key>
+			<string>E6C02DA0-6F9D-4207-A4AD-7B07FCAD446B</string>
+		</dict>
+		<key>F406DF96-4DA0-4E9F-97A5-8D219802A8B0</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F406DF96-4DA0-4E9F-97A5-8D219802A8B0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Flashcards App project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Flashcards App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Flashcards App</string>
+			<key>timeStartedRecording</key>
+			<real>636074344.06225896</real>
+			<key>timeStoppedRecording</key>
+			<real>636074383.54363096</real>
+			<key>title</key>
+			<string>Run Flashcards App</string>
+			<key>uniqueIdentifier</key>
+			<string>F406DF96-4DA0-4E9F-97A5-8D219802A8B0</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
